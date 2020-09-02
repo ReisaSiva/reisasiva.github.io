@@ -356,7 +356,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
   clear: both; }
 .colorlib-blogg {
-  padding: 5em 0;
+  padding-top: 5em;
   clear: both; 
 }
 .colorlib-bg-white {
@@ -1120,7 +1120,7 @@ input[type="text"] {
     font-weight: 700; }
   #colorlib-footer .copy {
     background: #262626;
-    padding: 7em 0; }
+    padding: 2em 0; }
     #colorlib-footer .copy p {
       margin-bottom: 0;
       color: #fff;
